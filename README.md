@@ -34,6 +34,3 @@ The GAI artist is thus a **hunter-gatherer in a digital environment**, who "find
 
 For formal citation and references, please refer to the notes section of the full paper.
 
----
-
-Would you like me to generate a specific BibTeX entry for this paper?
